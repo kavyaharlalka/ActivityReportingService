@@ -1,2 +1,0 @@
-# ActivityReportingService
- Activity Reporting Service
