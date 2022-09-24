@@ -1,2 +1,2 @@
 # ActivityReportingService
- Activity Reporting Service
+Reporting Service coded in C# to keep track of Activities and Events.
